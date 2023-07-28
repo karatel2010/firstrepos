@@ -18,7 +18,7 @@ class Clownfish():
 
 u=Shark()
 p=Clownfish()
-# jkdbfsjldfvshfysivfysidfvyusdgukhfkasd,ajsdkas
+# jkdbfsjldfvshfysivfysidfvyusdgukhfkasd,ajsdkaswfwefs
 for fish in (u,p):
     f"{fish.skeleton()} {fish.swim()}  {fish.swimbackword()}"
 =
